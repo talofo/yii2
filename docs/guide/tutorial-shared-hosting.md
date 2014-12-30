@@ -61,8 +61,8 @@ the rest copy `requirements.php` from root directory into webroot directory and 
 Deploying advanced application
 ------------------------------
 
-Deploying advanced application to shared hosting is a bit trickier than doing it with basic application because it has
-two webroots which shared hosting typically donesn't have. Because of that structure could be adjusted a bit.
+Deploying advanced application to some shared hosting is a bit trickier than doing it with basic application because it has
+two webroots which shared hosting typically doesn't have. Because of that structure could be adjusted a bit.
 
 ### Move entry scripts into single webroot
 
